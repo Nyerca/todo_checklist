@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "todo_checklist",
+  "version": "1.0.0",
+  "description": "Checklist",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyerca/todo_checklist.git"
+  },
+  "keywords": [
+    "checklist"
+  ],
+  "author": "Enrico Facciani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyerca/todo_checklist/issues"
+  },
+  "homepage": "https://github.com/Nyerca/todo_checklist#readme"
+}
